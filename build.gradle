@@ -17,7 +17,5 @@ shadowJar {
 }
 
 dependencies {
-    compile project(path: ':DatabasePlugin')
-    compile "net.dv8tion:JDA:4.1.0_81"
     implementation 'com.github.NeutronStars:NBot:b_3.0.4'
 }
